@@ -1,0 +1,29 @@
+# D?pendances principales
+pandas==2.0.1
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+
+# Interface utilisateur
+streamlit==1.22.0
+plotly==5.14.1
+
+# Outils financiers
+yfinance==0.2.18
+pypfopt==1.5.5
+pyfolio==0.9.2
+
+# Base de donn?es
+sqlalchemy==2.0.12
+pymysql==1.0.3
+
+# Outils de d?veloppement
+pytest==7.3.1
+black==23.3.0
+flake8==6.0.0
+isort==5.12.0
+
+# Documentation
+sphinx==7.0.1
+sphinx-rtd-theme==1.2.0
